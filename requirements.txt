@@ -1,2 +1,2 @@
-flask==2.3.3
+Flask==2.3.2
 tweetnlp==0.2.2
